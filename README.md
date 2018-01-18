@@ -1,5 +1,5 @@
 <p align="center">
-  # Kaggle Data Science Bowl 2018.
+  **Kaggle Data Science Bowl 2018**
 </p>
 # Kaggle Data Science Bowl 2018.
 
