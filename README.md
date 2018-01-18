@@ -3,6 +3,10 @@
 </p>
 # Kaggle Data Science Bowl 2018.
 
+<p align="center">
+  <img width="460" height="300" src= https://img.youtube.com/vi/eHwkfhmJexs/0.jpg)](https://www.youtube.com/watch?v=eHwkfhmJexsE)>
+</p>
+
 [![Kaggle Data Science Bowl 2018. ](https://img.youtube.com/vi/eHwkfhmJexs/0.jpg)](https://www.youtube.com/watch?v=eHwkfhmJexsE)
 
 ***
