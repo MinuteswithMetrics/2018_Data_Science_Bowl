@@ -1,4 +1,6 @@
-# GitHub repository for the Kaggle Data Science Bowl 2018. 
+
+
+# <img src = "https://www.kaggle.io/svf/2173370/6feee7261895e0492d6542999f1f9ef1/__results___files/__results___2_1.png"> Kaggle Data Science Bowl 2018. 
 
 ***
 ### <strong>START DATE:</strong> Tuesday, January 16, 2018
@@ -30,3 +32,4 @@ Visit DataScienceBowl.com to:
 <li>Read our <a href="https://www.datasciencebowl.com/data-science-insights">latest insights</a> on emerging analytics techniques</p>
 
 <img src="https://storage.googleapis.com/kaggle-media/competitions/dsb-2018/dsb.jpg">
+
