@@ -1,10 +1,9 @@
-
+<p align="justify">
+  # Kaggle Data Science Bowl 2018.
+</p>
+# Kaggle Data Science Bowl 2018.
 
 [![Kaggle Data Science Bowl 2018. ](https://img.youtube.com/vi/eHwkfhmJexs/0.jpg)](https://www.youtube.com/watch?v=eHwkfhmJexsE)
-
-https://youtu.be/eHwkfhmJexs
-
-# <img src = "https://www.kaggle.io/svf/2173370/6feee7261895e0492d6542999f1f9ef1/__results___files/__results___2_1.png"> Kaggle Data Science Bowl 2018. 
 
 ***
 ### <strong>START DATE:</strong> Tuesday, January 16, 2018
