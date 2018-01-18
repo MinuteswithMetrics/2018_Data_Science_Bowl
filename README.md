@@ -2,7 +2,7 @@
   **Kaggle Data Science Bowl 2018**
 </p>
 
-<strong>Kaggle Data Science Bowl 2018 as bold text</strong>
+<center> <strong>Kaggle Data Science Bowl 2018 </strong> <center>
 <center>**Kaggle Data Science Bowl 2018**</center>
 
 [![Kaggle Data Science Bowl 2018. ](https://img.youtube.com/vi/eHwkfhmJexs/0.jpg)](https://www.youtube.com/watch?v=eHwkfhmJexsE)
