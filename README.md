@@ -1,4 +1,4 @@
-<p align="justify">
+<p align="center">
   # Kaggle Data Science Bowl 2018.
 </p>
 # Kaggle Data Science Bowl 2018.
